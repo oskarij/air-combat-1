@@ -72,4 +72,9 @@ the physics engine, isn't top notch, I'll remove one point from the extensivenes
 
 Total 9p
 
-### Grand total 27 points
+## 4. Project plan (0-3p)
+Schedule missing.
+
+Total 2.5p
+
+### Grand total 29.5 points
