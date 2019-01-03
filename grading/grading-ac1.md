@@ -57,9 +57,10 @@ situations. E.g., functions can survive invalid inputs and exception
 handling is used where appropriate. (2p)
 Assert is used at some points where a throw could've been used instead. 
 Assert failure will close the program, whereas a throw could instead just 
-show an error message on screen and be much more descriptive. 1p
+show an error message on screen and be much more descriptive. EDIT: Assert 
+use was justified by the group. 1.5p
 
-Total 7p
+Total 7.5p
 
 ## 4. Project extensiveness (0-10p)
   * Project contains features beyond the minimal requirements: Most of
@@ -77,4 +78,4 @@ Schedule missing.
 
 Total 2.5p
 
-### Grand total 29.5 points
+### Grand total 30 points
